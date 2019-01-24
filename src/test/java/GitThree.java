@@ -10,6 +10,5 @@ public class GitThree {
 		System.out.println("Third Change from PC");
 		System.out.println("next try for Change");
 		
-		//test
 	}
 }
