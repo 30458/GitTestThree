@@ -7,7 +7,7 @@ public class GitThree {
 
 		System.out.println("Git Three Test Print");
 		System.out.println("Success try from Bash");
-		System.out.println("Hello from Desktop");
+		System.out.println("Once Again - Hello from Desktop");
 		
 	}
 }
