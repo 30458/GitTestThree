@@ -7,9 +7,13 @@ public class GitThree {
 
 		System.out.println("Git Three Test Print");
 		System.out.println("Success try from Bash");
-<<<<<<< HEAD
 		System.out.println("Third Change from PC");
 		System.out.println("next try for Change");
+		
+		// hello 1
+		// hello 2
+		// hello 3
+		
 	}
 	
 	// test 1
@@ -17,9 +21,3 @@ public class GitThree {
 	// test 3
 	// test 4
 }
-=======
-		System.out.println("Change from PC");
-		System.out.println("next try for Change");
-	}
-}
->>>>>>> 1794a4964ed561210e8146bf654d39d8842afd9d
